@@ -42,14 +42,11 @@ No real or proprietary data is included.
 🔗 **Portfolio:** [jeffmillerauthor.net](https://jeffmillerauthor.net)  
 🐙 **GitHub:** [JeffMillerAuthor](https://github.com/JeffMillerAuthor)
 
-Copyright © 2025 Jeff Miller
+### Copyright & License
+© 2025 Jeff Miller  
 
-Permission is granted to view and reference this project for personal learning and professional review.  
-Redistribution or commercial use without written consent is prohibited.
-
-
-
-
+Permission is granted to **view and reference** this project for personal learning and professional review.  
+**Redistribution, replication, or commercial use** without written consent is prohibited.
 
 
 
