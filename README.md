@@ -3,8 +3,10 @@
 **Power BI Project (.pbip)** — An interactive daily budget and operations dashboard.
 
 ## 📊 Overview
-This dashboard tracks **procedures, visits, and budget performance** across operations.  
-It visualizes trends, variances, and utilization, helping identify where actuals deviate from budget targets.
+This dashboard provides near real-time visibility into operational and financial performance by translating monthly budget targets into meaningful daily benchmarks. Instead of using arbitrary daily values, the system amortizes the monthly budget across the clinic’s actual operational days—automatically adjusting for partial weekends and reduced hours.
+
+This approach ensures each day’s target directly reflects the month’s total budget, providing accurate, actionable insights into whether performance is on pace. By identifying shortfalls early, clinic leaders can take corrective action mid-month rather than waiting for accounting’s month-end close to discover a missed budget.
+
 
 ## 🚀 Features
 - KPI cards showing daily, month-to-date, and year-to-date performance  
