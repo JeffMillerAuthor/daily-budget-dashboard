@@ -9,11 +9,14 @@ This approach ensures each day’s target directly reflects the month’s total 
 
 
 ## 🚀 Features
-- KPI cards showing daily, month-to-date, and year-to-date performance  
-- Variance analysis by department and service line  
-- Drill-through navigation for facility-level insights  
-- Custom date slicers for dynamic filtering  
-- Integrated measures for budget vs. actual calculations  
+- **Interactive radial controls** for selecting **Procedures**, **Visits**, and performance periods — including **Current MTD, QTD, YTD**, and historical options for **Prior Month, Quarter, and Year**.  
+- **Dynamic data parameters** automatically update all visuals, KPI cards, and measures as users toggle between selections.  
+- **KPI cards** summarizing daily, month-to-date, quarter-to-date, and year-to-date performance metrics.  
+- **Variance analysis** by department and service line for quick identification of performance gaps and trends.  
+- **Drill-through navigation** for facility-level and departmental insights.  
+- **Custom date slicers and cross-filtering** enabling intuitive, real-time exploration.  
+- **Integrated measures** for budget vs. actual calculations with responsive, interactive visuals.
+
 
 ## 🧰 Tools & Technologies
 - **Power BI Desktop (.pbip project)**  
