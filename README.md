@@ -19,9 +19,8 @@ It visualizes trends, variances, and utilization, helping identify where actuals
 - **Modeling:** DAX measures for financial and operational variance  
 
 ## 🖼️ Preview
-![Dashboard Preview](images/dashboard-preview.png)
-![Dashboard Preview](images/Daily Budget Current MTD Screenshot.png)
-*(Tip: Add a screenshot later by uploading a .png to `/images/` and linking here.)*
+![Dashboard Preview](images/Daily%20Budget%20Current%20MTD%20Screenshot.png)
+
 
 ## 🧩 How to Open
 1. Clone or download this repo.  
