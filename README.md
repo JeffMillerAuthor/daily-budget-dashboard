@@ -35,5 +35,6 @@ No real or proprietary data is included.
 
 ---
 
-**Author:** Jeff Miller  
-**GitHub:** [JeffMillerAuthor](https://github.com/JeffMillerAuthor)
+📘 **Author:** Jeff Miller  
+🔗 **Portfolio:** [jeffmillerauthor.net](https://jeffmillerauthor.net)  
+🐙 **GitHub:** [JeffMillerAuthor](https://github.com/JeffMillerAuthor)
