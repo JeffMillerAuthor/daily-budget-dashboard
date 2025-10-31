@@ -41,3 +41,15 @@ No real or proprietary data is included.
 📘 **Author:** Jeff Miller  
 🔗 **Portfolio:** [jeffmillerauthor.net](https://jeffmillerauthor.net)  
 🐙 **GitHub:** [JeffMillerAuthor](https://github.com/JeffMillerAuthor)
+
+Copyright © 2025 Jeff Miller
+
+Permission is granted to view and reference this project for personal learning and professional review.  
+Redistribution or commercial use without written consent is prohibited.
+
+
+
+
+
+
+
